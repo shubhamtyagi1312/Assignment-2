@@ -1,3 +1,7 @@
 vec1<-c(1,2,3,4,5,6,7,8)
 vec2<-c(1,2,3,4)
 mat1=matrix(vec1,nrow=4)
+name=c("ABC","XYZ")
+rollno=c(1002,1005)
+marks=c(98,94)
+student=data.frame(name,rollno,marks)
